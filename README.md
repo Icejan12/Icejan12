@@ -7,8 +7,8 @@
 - ⚡ Fun fact: ...
 <br/>
 <h1>This is Testing</h1>
-<div style="display:flex; gap:20px">
-  <div>Lorem </div>
+<div style="display:flex;">
+  <div style="color:red">Lorem </div>
   <div>Ipsum</div>
 </div>
 <!---
