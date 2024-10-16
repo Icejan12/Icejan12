@@ -7,6 +7,10 @@
 - ⚡ Fun fact: ...
 <br/>
 <h1>This is Testing</h1>
+<div style="display:flex; gap:20px">
+  <div>Lorem </div>
+  <div>Ipsum</div>
+</div>
 <!---
 Icejan12/Icejan12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
