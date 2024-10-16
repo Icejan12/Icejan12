@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <br/>
-<h1>This is Tessting</h1>
+<h1>This is Testing</h1>
 <!---
 Icejan12/Icejan12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
